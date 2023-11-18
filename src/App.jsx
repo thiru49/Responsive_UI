@@ -6,7 +6,7 @@ import {Brand,Cta,Navbar} from './components/index'
 
 function App() {
   
-git 
+
   return (
    <div className='App'>
     <div className='gradient__bg'>
