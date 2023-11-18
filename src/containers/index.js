@@ -1,4 +1,4 @@
-import Blog from "./blog/blog";
+import Blog from "./blog/Blog.jsx";
 import Features  from './features/Feature'
 import Footer from "./footer/footer";
 import Header from "./header/Header";
